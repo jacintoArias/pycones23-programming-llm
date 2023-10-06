@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+gpt4all = "*"
+openai = "*"
+chroma = "*"
+python-dotenv = "*"
+beautifulsoup4 = "*"
+html2text = "*"
+chromadb = "*"
+boto3 = "*"
+tiktoken = "*"
+duckduckgo-search = "*"
+numexpr = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"

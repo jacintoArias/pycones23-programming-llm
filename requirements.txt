@@ -1,0 +1,11 @@
+langchain
+gpt4all
+openai
+chroma
+python-dotenv
+beautifulsoup4
+html2text
+chromadb
+tiktoken
+duckduckgo-search
+numexpr
